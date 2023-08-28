@@ -7,5 +7,5 @@ SendMode, Input ; Recommended for new scripts due to its superior speed and reli
 SetBatchLines, -1
 SetWorkingDir, %A_ScriptDir% ; Ensures a consistent starting directory.
 
-; Windowsrl+F12
+; Windows+F12
 #F12:: Winset, Alwaysontop, , A
